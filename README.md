@@ -1,2 +1,2 @@
 # Linguagem C
- Jogo da velha em Linguam C
+ Jogo da velha em Linguagem C
